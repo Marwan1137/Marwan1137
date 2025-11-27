@@ -3,14 +3,17 @@
 
 <h3 align="center">
   Welcome to Marwan Heikal profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  <br><br>
+  Currently working on مُبصِر 🧑🏻‍💻
+</h3><br><br>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966?lines=Flutter%20developer&font=Fira%20Code&center=true&width=440&height=45&color=0000FF&vCenter=true&size=15"></a>
 </p> 
 
-#
-<h1 align="left">Hey 👋 What's up?</h1>
+
+<h1 align="left">What's up?👋</h1>
 
 ###
 
@@ -22,7 +25,7 @@
 
 ###
 
-<p align="left">✨ Creating Cross-Platform Mobile Applications<br>📚 I'm currently learning new skills on Flutter framework<br>🎯 My goal is to build scalable cross platform mobile application that helps people in their needs</p>
+<p align="left">✨ Creating Cross-Platform Mobile Applications<br>📚 learning new skills on Mobile Development frameworks<br>🎯 My goal is to build scalable cross platform mobile application that helps people in their needs</p>
 
 ###
 
